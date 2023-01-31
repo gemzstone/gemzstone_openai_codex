@@ -14,7 +14,7 @@ body {
 #app {
   width: 100vw;
   height: 100vh;
-  background: #343541;
+  background: url('https://raw.githubusercontent.com/gemzstone/gemzstone_openai_codex/main/client/background.jpg');
 
   display: flex;
   flex-direction: column;
