@@ -8,7 +8,7 @@
 }
 
 body {
-  background: url('./assets/background.jpg');
+  background: url('https://raw.githubusercontent.com/gemzstone/gemzstone_openai_codex/main/client/background.jpg');
 }
 
 #app {
